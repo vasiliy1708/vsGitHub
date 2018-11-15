@@ -10,6 +10,7 @@ namespace vsGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Fifi");
         }
     }
 }
